@@ -20,15 +20,15 @@ After pulling the data from each of the five countries I performed the steps bel
 
 After cleaning the data in a jupyter notebook a .html file was created that included a javascript script. Inside the script an interactive dashboard was created that allows users to toggle between the countries and output their corresponding line charts. The pictures are below
 
-![Image description](https://github.com/sebastiandifrancesco/Coronavirus-Dashboard/blob/main/Brazil.PNG)
+![Image description](https://github.com/sebastiandifrancesco/Coronavirus19-Dashboard/blob/main/Brazil.PNG)
 
-![Image description](https://github.com/sebastiandifrancesco/Coronavirus-Dashboard/blob/main/India.PNG)
+![Image description](https://github.com/sebastiandifrancesco/Coronavirus19-Dashboard/blob/main/India.PNG)
 
-![Image description](https://github.com/sebastiandifrancesco/Coronavirus-Dashboard/blob/main/Mexico.PNG)
+![Image description](https://github.com/sebastiandifrancesco/Coronavirus19-Dashboard/blob/main/Mexico.PNG)
 
-![Image description](https://github.com/sebastiandifrancesco/Coronavirus-Dashboard/blob/main/UK.PNG)
+![Image description](https://github.com/sebastiandifrancesco/Coronavirus19-Dashboard/blob/main/UK.PNG)
 
-![Image description](https://github.com/sebastiandifrancesco/Coronavirus-Dashboard/blob/main/US.PNG)
+![Image description](https://github.com/sebastiandifrancesco/Coronavirus19-Dashboard/blob/main/US.PNG)
 
 From the line charts you can see that for the US and the UK around January 2021 was when the new covid cases for each month began to drop steadily. For Brazil this occurred around March 2021 and for Mexico this occurred around January 2021. Mexico notably had fewer cases than all the other four countries, but this could be due to the country not keeping a great record of the new cases. India had the most interesting line chart. In September 2020, the county’s new cases started to fall but in February 2021 the country’s new cases began to rise again. This is strange considering the vaccine was rolled out worldwide in 2021. This could suggest that there is a new variant outbreak in India that the vaccines are not protective against. 
 
